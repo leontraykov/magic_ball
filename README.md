@@ -4,4 +4,4 @@ ruby magic_ball.rb
 На экране появится ответ. 
 Have fun!
 
-* - если язык Ruby не установлен на вашем компьютере, пожалуйста сперва воспользуйтесь этой ссылкой https://www.ruby-lang.org/ru/documentation/installation/
+* если язык Ruby не установлен на вашем компьютере, пожалуйста сперва воспользуйтесь этой ссылкой https://www.ruby-lang.org/ru/documentation/installation/
